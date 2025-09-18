@@ -1,38 +1,38 @@
 title: Semester 1
 weeks:
   - 2025-09-15:  
-     title: 1
+     title: 2
      type: Topic 01 -  Welcome and Introduction to the Module
   - 2025-09-22:
-     title: 2
+     title: 3
      type: Topic 02 - Microsoft Word - Basics 
   - 2025-09-27:
-     title: 3
+     title: 4
      type: Topic 02 - Microsoft Word - Advanced
   - 2025-10-06:
-     title: 4
+     title: 5
      type: Topic 02 - Microsoft Word - In class Assignment (20%) 
   - 2025-10-13:
-     title: 5
+     title: 6
      type: Topic 03 - Excel - Basics
   - 2025-10-20:
-     title: 6
+     title: 7
      type: Topic 03 - Excel - Advanced 
   - 2025-10-27:
      title: Reading Week
      type: Reading
   - 2025-11-03:
-     title: 7
+     title: 8
      type: Topic 03 - Excel - Graphs and Charts
   - 2025-11-10:
-     title: 8
+     title: 9
      type: Topic 03 - Excel - Revision
   - 2025-11-17:
-     title: 9
+     title: 10
      type: Topic 03 - Excel - In-class Assignment (50%)
   - 2025-11-23:
-     title: 10
+     title: 11
      type: Topic 04 - Powerpoint 
   - 2025-12-01: 
-     title: 11
+     title: 12
      type: Topic 04 - Powerpoint  Group Presentations

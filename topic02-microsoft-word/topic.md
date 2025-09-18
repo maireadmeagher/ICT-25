@@ -3,9 +3,9 @@ icon:
   type: vscode-icons:file-type-word
   color: red
 ---
-# Assessment in ICT for Scientists
+# 02: Microsoft Word
 
-100% CA
+MS Word - basics to advanced
 
 
 

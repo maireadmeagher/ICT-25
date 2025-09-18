@@ -1,6 +1,6 @@
-# Assessment in Functional Programming
+# Assessment in ICT for Scientists
 
-The module is 50% CA, 50% Final Exam.
+The module is 100% CA
 
 
 

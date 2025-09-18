@@ -2,9 +2,9 @@
 icon:
   type: vscode-icons:file-type-excel2
 ---
-# Assessment in ICT for Scientists
+# 03: Microsoft Excel
 
-100% CA
+MS Excel basics to advanced
 
 
 

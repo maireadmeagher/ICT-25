@@ -2,9 +2,7 @@
 icon:
   type: vscode-icons:file-type-powerpoint
 ---
-# Assessment in ICT for Scientists
+# 04: Microsoft Powerpoint
 
-100% CA
-
-
+basics to advanced
 
