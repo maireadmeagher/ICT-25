@@ -4,7 +4,7 @@ icon:
 ---
 # 03: Microsoft Excel
 
-MS Excel basics to advanced
+MS Excel  - basics to advanced
 
 
 
