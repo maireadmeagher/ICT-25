@@ -1,2 +1,3 @@
 # Introduction to ICT
-intro syllabus assessment 
+
+Intro, syllabus,  assessment 
