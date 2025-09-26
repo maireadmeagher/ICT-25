@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols-light:archive-outline
-  color: red
+  type: streamline-ultimate-color:notes-paper-text
+  color: blue
 ---
 Exercise 3 Files - Paper
 

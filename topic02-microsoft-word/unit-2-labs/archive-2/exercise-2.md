@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols-light:archive-outline
-  color: green
+  type: openmoji:artist
+  color: blue
 ---
 Exercise 2 Files - SmartArt
 
