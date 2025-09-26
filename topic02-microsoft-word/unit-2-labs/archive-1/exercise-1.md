@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols-light:archive-outline
+  type: mdi:drugs
   color: blue
 ---
 Exercise 1 Files - Antibiotics
