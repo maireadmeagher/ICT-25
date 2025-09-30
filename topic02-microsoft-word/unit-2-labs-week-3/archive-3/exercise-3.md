@@ -1,6 +1,6 @@
 ---
 icon:
-  type: streamline-freehand-color:notes-paper
+  type: guidance:paper
   color: blue
 ---
 
