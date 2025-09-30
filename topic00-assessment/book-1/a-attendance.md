@@ -1,4 +1,5 @@
 ---
+order: 1
 icon:
   type: mdi:register
   color: red
