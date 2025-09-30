@@ -8,3 +8,5 @@ icon:
 
 Safe and legal use of technology
 
+![](img/b-dig-citizenship.png)
+
