@@ -6,6 +6,6 @@ icon:
 ---
 # 04: Excel In-Class Assessment 
 
-Week 5 - 50%
+Week 10 - 50%
 
 More information to follow.
