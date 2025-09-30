@@ -1,4 +1,5 @@
 ---
+order: 2
 icon:
   type: arcticons:globalcitizen
   color: green
