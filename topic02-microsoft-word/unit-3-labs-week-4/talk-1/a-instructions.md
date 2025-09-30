@@ -4,6 +4,6 @@ icon:
   color: blue
 ---
 
-# 02: Instructions for Exercises - Week 4
-
+# 02: Instructions for Exercises - Week 3
+ 
 Read these Instructions
