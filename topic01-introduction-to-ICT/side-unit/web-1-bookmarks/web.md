@@ -1,7 +1,7 @@
 ---
 icon:
   type: streamline-ultimate:bookmarks-document
-  color: red
+  color: green
 ---
 
 # 01: Bookmarks and folders
