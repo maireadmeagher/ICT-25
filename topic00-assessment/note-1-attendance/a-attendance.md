@@ -1,5 +1,3 @@
-mdi:register
-
 ---
 icon:
   type: fmdi:register
