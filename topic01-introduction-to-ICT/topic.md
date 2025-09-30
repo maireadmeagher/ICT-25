@@ -3,6 +3,6 @@ icon:
   type: cbi:start-tv
   color: green
 ---
-# 01: Introduction to ICT for Scientists
+# 1: Introduction to ICT for Scientists
 
 getting started

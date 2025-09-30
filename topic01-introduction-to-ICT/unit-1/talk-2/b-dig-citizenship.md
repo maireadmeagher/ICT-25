@@ -4,7 +4,7 @@ icon:
   color: green
 ---
 
-Digital Citizenship
+# 01: Digital Citizenship
 
 Safe and legal use of technology
 

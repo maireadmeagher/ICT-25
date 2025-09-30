@@ -3,4 +3,4 @@ icon:
   type: material-symbols:how-to-reg-outline
   color: blue
 ---
-Instructions for Exercises
+# 02: Instructions for Exercises
