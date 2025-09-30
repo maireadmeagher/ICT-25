@@ -5,4 +5,4 @@ icon:
 ---
 # 00: Word In-Class Assessment 
 
-Week 5
+Week 5 - 20%

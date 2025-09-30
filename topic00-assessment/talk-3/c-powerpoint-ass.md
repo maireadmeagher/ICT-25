@@ -3,6 +3,6 @@ icon:
   type: file-icons:microsoft-powerpoint
   color: red
 ---
-# 00: PowerPoint Assessment 
+# 00: PowerPoint Assessment (Group)
 
-Due week 11
+Due Week 11 - 20%
