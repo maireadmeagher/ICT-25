@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fmdi:register
+  type: mdi:register
   color: red
 ---
 # 00: Attendance
