@@ -1,4 +1,5 @@
 ---
+order: 2
 icon:
   type: file-icons:microsoft-word
   color: blue
