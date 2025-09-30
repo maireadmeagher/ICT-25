@@ -1,6 +1,6 @@
 ---
 icon:
-  type: openmoji:rolled-up-newspaper
+  type: streamline-freehand-color:edit-pen-write-paper
   color: blue
 ---
 
