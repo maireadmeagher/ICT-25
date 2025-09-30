@@ -1,6 +1,6 @@
 ---
 icon:
-  type: streamline-freehand-color:edit-pen-write-paper
+  type: streamline-freehand-color:notes-paper
   color: blue
 ---
 
