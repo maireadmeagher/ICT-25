@@ -1,6 +1,6 @@
 ---
 icon:
-  type: openmoji:artist
+  type: material-symbols-light:smart-toy-outline
   color: blue
 ---
 # 02: Exercise 2 Files - SmartArt
