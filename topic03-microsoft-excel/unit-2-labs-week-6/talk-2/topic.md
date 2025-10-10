@@ -5,6 +5,6 @@ icon:
 ---
 
 
-# 03: Instructions for Exercises on formattin
+# 03: Instructions for Exercises 
 
-Read these Instructions
+Exercises on formatting in Excel
