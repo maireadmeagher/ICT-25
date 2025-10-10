@@ -1,6 +1,6 @@
 ---
 icon:
-  type: smdi-light:format-line-spacing
+  type: mdi-light:format-line-spacing
   color: green
 ---
 
