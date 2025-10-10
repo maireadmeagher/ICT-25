@@ -1,6 +1,6 @@
 ---
 icon:
-  type: streamline-freehand-color:cell-formating-border-horizontal-vertical
+  type: smdi-light:format-line-spacing
   color: green
 ---
 
