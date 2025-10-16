@@ -1,1 +1,1 @@
-Exercises for Week 6
+Exercises for Week 6 - Formatting and Formulas
