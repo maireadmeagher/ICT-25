@@ -3,7 +3,7 @@ icon:
   type: vscode-icons:file-type-excel
 
 ---
-# 02: Microsoft Word
+# 03: Microsoft excel
 
 MS Excel - basics to advanced
 
