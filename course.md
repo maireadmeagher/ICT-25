@@ -1,7 +1,7 @@
 ---
 icon:
-  type: arcticons:mdict 
-  color: red
+  type: streamline-ultimate-color:lab-tube
+
 ---
 # ICT for Scientists
 
