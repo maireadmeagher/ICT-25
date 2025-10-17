@@ -1,7 +1,7 @@
 highlightstyle : railscasts
 icon: 
-  type: covid:virus-lab-research-microscope
-  color: "#800080"
+  type: icomoon-free:lab
+
 credits        : Ms. Mairead Meagher, SETU.
 moodle         : https://moodle.setu.ie/course/view.php?id=217879
 ignorepin      : 1234
