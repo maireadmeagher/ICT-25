@@ -1,1 +1,1 @@
-Exercises for Week  - More on Formatting and Formulas - Intro to Chart
+Exercises for Week 7 - More on Formatting and Formulas - Introduction  to Charts 

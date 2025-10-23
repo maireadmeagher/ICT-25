@@ -5,5 +5,5 @@ icon:
 ---
 # 03:  Excel Charts
 
-Tutorial on MS Excel charts.
+Tutorial on MS Excel Charts.
 
