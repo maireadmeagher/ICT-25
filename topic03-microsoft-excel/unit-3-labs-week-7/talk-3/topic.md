@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:how-to-reg-outline
-  color: green
+  color: red
 ---
 
 # 03: Instructions for Exercises - Week 7

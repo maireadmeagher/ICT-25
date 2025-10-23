@@ -1,7 +1,7 @@
 ---
 icon:
   type: eva:link-fill
-  color: green
+  color: red
 ---
 # 03:  Excel Charts
 

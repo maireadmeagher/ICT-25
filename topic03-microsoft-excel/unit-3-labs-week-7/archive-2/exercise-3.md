@@ -1,7 +1,7 @@
 ---
 icon:
-  type: arcticons:all-maths-formulas
-  color: green
+  type: ep:trend-charts
+  color: red
 ---
 # 03: Exercise 3 File - Formulas, Conditional Formatting, Sorting Charts basics
 
