@@ -1,7 +1,7 @@
 ---
 icon:
   type: ep:trend-charts
-  color: red
+  color: green
 ---
 # 03: Exercise 3 File - Formulas, Conditional Formatting, Sorting Charts basics
 

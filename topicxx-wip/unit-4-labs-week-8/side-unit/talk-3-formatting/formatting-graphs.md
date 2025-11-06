@@ -4,6 +4,6 @@ icon:
   color: green
 ---
 
-# 03: Plan for Week 8
+# 03: Formatting Graphs
  
-Read these Instructions
+How to format graphs for word and powerpoint

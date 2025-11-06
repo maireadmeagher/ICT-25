@@ -6,4 +6,4 @@ icon:
 
 # 03 : Decision Guide
 
-what graphs / charts to use
+which graphs / charts to use
