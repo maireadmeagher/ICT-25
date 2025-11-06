@@ -4,5 +4,5 @@ icon:
 ---
 # 04: Microsoft Powerpoint
 
-MS Powerpoing - basics to advanced
+MS Powerpoint - basics to advanced
 
