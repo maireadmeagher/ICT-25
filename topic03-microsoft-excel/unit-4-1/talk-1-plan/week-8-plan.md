@@ -6,4 +6,4 @@ icon:
 
 # 03: Plan for Week 8
  
-List of topics to cover
+List of topics covered in week 8
