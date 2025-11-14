@@ -1,9 +1,9 @@
 ---
 icon:
   type: material-symbols:how-to-reg-outline
-  color: #D04423
+  color: coral
 ---
 
-# 03: PowerPoint elements
+# 04: PowerPoint elements
 
 elements to be covered

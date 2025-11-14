@@ -1,9 +1,9 @@
 ---
 icon:
   type: streamline-logos:youtube-logo
-  color: #D04423
+  color: coral
 ---
-# 03: YouTube Playlist for PowerPoint
+# 04: YouTube ppt Playlist 
 
-Playlist for PowerPoint 
+Playlist for MS PowerPoint 
 

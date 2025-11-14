@@ -1,10 +1,10 @@
 ---
 icon:
   type: mdi-light:format-line-spacing
-  color: green
+  color: coral
 ---
 
 
-# 03: Instructions for Exercises 
+# 03: Steps for Exercises
 
-Exercises on formatting in Excel
+creating ppt presentations
