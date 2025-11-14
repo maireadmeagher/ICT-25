@@ -4,6 +4,6 @@ icon:
   color: coral
 ---
 
-# 04: PowerPoint elements
+# 04: elements covered
 
 elements to be covered

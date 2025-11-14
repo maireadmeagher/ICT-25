@@ -1,10 +1,10 @@
 ---
 icon:
-  type: mdi-light:format-line-spacing
+  type: bi:filetype-pptx
   color: coral
 ---
 
 
-# 03: Steps for Exercises
+# 04: Steps for ppts
 
 creating ppt presentations

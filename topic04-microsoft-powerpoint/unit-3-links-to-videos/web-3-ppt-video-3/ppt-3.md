@@ -1,7 +1,7 @@
 ---
 icon:
   type: octicon:graph-24
-  color: green
+  color: coral
 ---
 # 04: Scientific ppt 
 
