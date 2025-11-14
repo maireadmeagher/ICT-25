@@ -4,6 +4,6 @@ icon:
   type: file-icons:microsoft-powerpoint
   color: red
 ---
-# 04: PowerPoint Assessment (Group)
+# 04: PowerPoint Assessment 
 
-Due Week 11 - 20%
+Due Nov 24th - 20%
