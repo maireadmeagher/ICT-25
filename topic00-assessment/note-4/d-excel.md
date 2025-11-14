@@ -1,11 +1,11 @@
 ---
-order: 4
+order: 3
 icon:
   type: file-icons:microsoft-excel
   color: green
 ---
-# 04: Excel In-Class Assessment 
+# 03: Excel In-Class Assessment 
 
-Week 10 - 50%
+Week 11 - 50%
 
 More information to follow.
