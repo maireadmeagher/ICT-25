@@ -8,4 +8,3 @@ icon:
 
 Week 11 - 50%
 
-More information to follow.
