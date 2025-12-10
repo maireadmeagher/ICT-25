@@ -3,6 +3,9 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+#marking files that should not be tracked by Git
+admin/
+
 # Node artifact files
 node_modules/
 dist/
