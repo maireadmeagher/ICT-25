@@ -1,0 +1,55 @@
+
+
+Title
+Measuring the Boiling Point of Water at Different Altitudes
+
+1. Aim
+To determine how altitude affects the boiling point of water and to compare the measured values with theoretical expectations.
+
+2. Theory
+2.1 Introduction to Clausius–Clapeyron equation
+The Clausius–Clapeyron equation describes how the pressure and temperature of a substance are related during a phase change — for example, when a liquid boils or a solid melts.
+It shows that as temperature increases, the vapour pressure of a liquid also increases. This is because heating gives the molecules more energy to escape from the liquid surface.
+In this experiment, the equation helps explain why the boiling point of water decreases at higher altitudes:
+	Air pressure is lower at high altitudes.
+	According to the equation, lower pressure means boiling happens at a lower temperature.
+ 
+2.2 Relationship between boiling point and pressure
+The relationship between boiling point and pressure can be estimated using the Clausius–Clapeyron equation:
+ln⁡(P_1/P_2 )    =  (∆H_vap)/R (1/T_2 - 1/T_2 )
+
+where   ∆H_vap   is the enthalpy of vaporization, R is the gas constant, and T represents absolute temperature.
+
+3. Apparatus
+	Thermometer
+	250 mL Beaker
+	Hot plate
+	Distilled water
+	Barometer
+	Stopwatch
+
+ 
+4. Method
+	Fill a 250 mL beaker halfway with distilled water.
+	Measure and record the atmospheric pressure using a barometer.
+	Place the beaker on a hot plate and heat gradually.
+	Record the temperature at which vigorous boiling begins.
+	Repeat the experiment at three simulated altitudes by adjusting the air pressure in a sealed chamber (or use provided data).
+	Record all data and calculate the boiling point deviation from the theoretical 100 °C.
+
+Altitude (m) Pressure (kPa)   Boiling Point (°C) Deviation (°C)
+0		101.3		100.0			0.0
+500		95.5		98.6			-1.4
+1000		89.9		97.2			-2.8
+1500		84.2		96.0			-4.0
+
+
+4. Calculations
+Percentage deviation from standard boiling point (100 °C):
+Percentage deviation = (100- T_measured  )/100×100
+At 1500 m, deviation = 4/100  ×100=4% 
+
+5. Discussion/Conclusion
+The data clearly shows a decrease in boiling point with increasing altitude, consistent with the theoretical relationship between pressure and temperature.
+Minor experimental deviations could result from thermometer calibration or inconsistent pressure readings.
+This experiment demonstrates the importance of considering environmental conditions in temperature-sensitive scientific measurements.
